@@ -9,17 +9,15 @@ import SubLaw from "./pages/SubLaw";
 
 function App() {
   return (
-    <>
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/blog" element={<Blog />} />
-          <Route path="/sub" element={<MoreInfo />} />
-          <Route path="/law" element={<Laws />} />
-          <Route path="/LawSection" element={<SubLaw />} />
-        </Routes>
-      </BrowserRouter>
-    </>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <Routes>
+        <Route path="/Lawyer" element={<Home />} />
+        <Route path="/Lawyer/blog" element={<Blog />} />
+        <Route path="/Lawyer/sub" element={<MoreInfo />} />
+        <Route path="/Lawyer/law" element={<Laws />} />
+        <Route path="/Lawyer/LawSection" element={<SubLaw />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
