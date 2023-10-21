@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/Lawyer/static/css/main.9a382182.css",
-    "main.js": "/Lawyer/static/js/main.c2b2cea9.js",
+    "main.css": "/Lawyer/static/css/main.060c2cdf.css",
+    "main.js": "/Lawyer/static/js/main.bc702879.js",
     "static/js/787.c1112931.chunk.js": "/Lawyer/static/js/787.c1112931.chunk.js",
     "static/media/vision.jpg": "/Lawyer/static/media/vision.efd6d5843f15bbeb1ad2.jpg",
     "static/media/about.jpg": "/Lawyer/static/media/about.8ad07073a8c9142a782a.jpg",
+    "static/media/contact.jpg": "/Lawyer/static/media/contact.9a7ef981d5ae71ec2af3.jpg",
     "static/media/contactbg.png": "/Lawyer/static/media/contactbg.5161b7f0bbb1568f3c96.png",
     "static/media/anilogo.png": "/Lawyer/static/media/anilogo.046ad78109a3954c12ad.png",
     "index.html": "/Lawyer/index.html",
-    "main.9a382182.css.map": "/Lawyer/static/css/main.9a382182.css.map",
-    "main.c2b2cea9.js.map": "/Lawyer/static/js/main.c2b2cea9.js.map",
+    "main.060c2cdf.css.map": "/Lawyer/static/css/main.060c2cdf.css.map",
+    "main.bc702879.js.map": "/Lawyer/static/js/main.bc702879.js.map",
     "787.c1112931.chunk.js.map": "/Lawyer/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a382182.css",
-    "static/js/main.c2b2cea9.js"
+    "static/css/main.060c2cdf.css",
+    "static/js/main.bc702879.js"
   ]
 }
