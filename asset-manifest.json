@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f1f0669c.css",
-    "main.js": "/static/js/main.79935261.js",
-    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
-    "static/media/vision.jpg": "/static/media/vision.efd6d5843f15bbeb1ad2.jpg",
-    "static/media/about.jpg": "/static/media/about.8ad07073a8c9142a782a.jpg",
-    "static/media/contact.jpg": "/static/media/contact.9a7ef981d5ae71ec2af3.jpg",
-    "static/media/title.png": "/static/media/title.2030300bf028b2e81a49.png",
-    "static/media/contactbg.png": "/static/media/contactbg.5161b7f0bbb1568f3c96.png",
-    "static/media/anilogo.png": "/static/media/anilogo.046ad78109a3954c12ad.png",
-    "index.html": "/index.html",
-    "main.f1f0669c.css.map": "/static/css/main.f1f0669c.css.map",
-    "main.79935261.js.map": "/static/js/main.79935261.js.map",
-    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/Lawyer/static/css/main.f1f0669c.css",
+    "main.js": "/Lawyer/static/js/main.560171d7.js",
+    "static/js/787.c1112931.chunk.js": "/Lawyer/static/js/787.c1112931.chunk.js",
+    "static/media/vision.jpg": "/Lawyer/static/media/vision.efd6d5843f15bbeb1ad2.jpg",
+    "static/media/about.jpg": "/Lawyer/static/media/about.8ad07073a8c9142a782a.jpg",
+    "static/media/contact.jpg": "/Lawyer/static/media/contact.9a7ef981d5ae71ec2af3.jpg",
+    "static/media/title.png": "/Lawyer/static/media/title.2030300bf028b2e81a49.png",
+    "static/media/contactbg.png": "/Lawyer/static/media/contactbg.5161b7f0bbb1568f3c96.png",
+    "static/media/anilogo.png": "/Lawyer/static/media/anilogo.046ad78109a3954c12ad.png",
+    "index.html": "/Lawyer/index.html",
+    "main.f1f0669c.css.map": "/Lawyer/static/css/main.f1f0669c.css.map",
+    "main.560171d7.js.map": "/Lawyer/static/js/main.560171d7.js.map",
+    "787.c1112931.chunk.js.map": "/Lawyer/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1f0669c.css",
-    "static/js/main.79935261.js"
+    "static/js/main.560171d7.js"
   ]
 }
